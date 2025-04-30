@@ -14,4 +14,5 @@ A Python script to track the current market value of your stock portfolio using 
 - yfinance library
 
 ## Output
+![Image](https://github.com/user-attachments/assets/33369a29-6fe4-4d5e-9543-ee7f35331d09)
 
